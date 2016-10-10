@@ -3,3 +3,7 @@ var greeting = "hello World"
 function sayHello() {
 return greeting;
 }
+var greeting2 = "Sterling is awesome."
+function sayHello2() {
+return greeting2;
+}
