@@ -1,0 +1,5 @@
+var greeting = "hello World"
+
+function sayHello() {
+return greeting;
+}
